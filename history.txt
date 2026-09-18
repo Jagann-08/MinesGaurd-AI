@@ -1,0 +1,1 @@
+Slope,Rainfall,Temperature,Vibration,Crack,Moisture,Displacement,Pressure,Risk
